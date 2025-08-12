@@ -8,11 +8,16 @@ I am a Research Scientist passionate about image and data analysis in biomedical
 - 🤔 Would love help with identifying tools and methods to analyze multivariate data.
 - 💬 Ask me about image and data analysis in biomedical research.
 
+
 #### Publications:
 
 * [Research Papers](https://scholar.google.com.au/citations?user=knnxOSUAAAAJ&hl=en)
 
 * [Career Insight article](https://focalplane.biologists.com/2020/07/03/career-insight-bioimage-analysis/)
+
+#### Software Review History
+
+[![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@pr4deepr)](https://joss.theoj.org/papers/reviewed_by/@pr4deepr)
 
 #### Talks:
 * [DASK Life Sciences Summit 2021: Experiences using Dask for large microscopy datasets](https://www.youtube.com/watch?v=61p_pzL62Gs)
