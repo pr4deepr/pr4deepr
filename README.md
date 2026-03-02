@@ -22,6 +22,11 @@ I am really interested in extracting quantitative insights from complex microsco
 * **Data Science:** Deep Learning, Dimensionality Reduction, Multivariate Analysis, Hypothesis Testing, Visualization,.
 * **Stack:** Python (NumPy, Pandas, Scikit-learn, PyTorch), ImageJ/Fiji, Napari, QuPath.
 
+
+#### Kaggle Competitions
+
+* [Using self supervised learning as a feature processor to help decipher Vesuvius scrolls: Rank 125](https://www.kaggle.com/competitions/vesuvius-challenge-surface-detection/writeups/vesuvius-wnet3d-nnunet)
+
 #### Publications:
 
 * [Research Papers](https://scholar.google.com.au/citations?user=knnxOSUAAAAJ&hl=en)
