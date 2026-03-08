@@ -25,7 +25,7 @@ I am really interested in extracting quantitative insights from complex microsco
 
 #### Kaggle Competitions
 
-* [Using self supervised learning as a feature processor to help decipher Vesuvius scrolls: Rank 125](https://www.kaggle.com/competitions/vesuvius-challenge-surface-detection/writeups/vesuvius-wnet3d-nnunet)
+* [Using self supervised learning as a feature processor to help decipher Vesuvius scrolls: Rank 113](https://www.kaggle.com/competitions/vesuvius-challenge-surface-detection/writeups/vesuvius-wnet3d-nnunet)
 
 #### Publications:
 
