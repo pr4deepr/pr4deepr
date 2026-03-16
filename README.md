@@ -39,3 +39,9 @@ I am really interested in extracting quantitative insights from complex microsco
 
 #### Talks:
 * [DASK Life Sciences Summit 2021: Experiences using Dask for large microscopy datasets](https://www.youtube.com/watch?v=61p_pzL62Gs)
+
+#### Profiles
+
+* [Walter and Eliza Hall Institute of Medical Research](https://findaresearcher.wehi.edu.au/rajasekhar.p)
+
+* [LinkedIN](https://www.linkedin.com/in/rajapradeep)
